@@ -15,6 +15,8 @@ Inspired by the success of pretrained models in various natural language process
 ### 4. T5, PyTorch, and PyTorch Lightning: 
 In our pursuit of exploring diverse models, we incorporated the T5 model, leveraging the capabilities of PyTorch and PyTorch Lightning frameworks. T5 is a versatile model that can be fine-tuned for various text generation tasks, including summarization. By employing T5, we sought to compare its performance with the previously implemented models. PyTorch and PyTorch Lightning frameworks streamlined our experimentation process, allowing us to focus on the model's architecture and hyperparameters. The T5 model demonstrated competitive results, further expanding the range of models available for text summarization.
 
+
+### Methodology:  
 Each model was trained, fine-tuned, and assessed for its summarization capabilities. The Sequence to Sequence Network and Attention served as the initial approach, leveraging recurrent neural networks and attention mechanisms. The Transformer model explored the power of self-attention and positional encoding, while the BART model capitalized on pretrained architectures for enhanced abstractive summarization. Lastly, the T5 model, integrated with PyTorch and PyTorch Lightning, provided a versatile and conditional generation framework.
 
 The comparative analysis using the BLEU metric provided valuable insights into the models' summarization capabilities. It revealed the importance of architectural choices, fine-tuning techniques, and the utilization of pretraining for enhancing summarization quality. The findings contribute to the field of text summarization and shed light on the effectiveness of different models for news article summarization.
