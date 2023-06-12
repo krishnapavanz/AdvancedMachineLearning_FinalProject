@@ -1,5 +1,4 @@
-# AdvancedMachineLearning_FinalProject
-## NLP Text summarisation models for summarising news articles
+## Text summarisation models for summarising news articles
 
 News articles are an essential source of information, but the increasing volume of news content poses challenges for readers to keep up with the vast amount of available information. To address this issue, we embarked on a research project focused on text summarization for news articles. This project aims to develop a text summarization system that can generate concise and informative headlines from news articles. The system was trained on Kaggle Inshorts News Data. In this report, we present our exploration of four powerful models that employ different approaches to summarize news articles efficiently and accurately.
 
